@@ -69,6 +69,8 @@ An HTTP response has the following syntax.
 
 You can see that the response syntax is similar to the request syntax. The major difference is that the first line represents the version and the status of the response.
 
+It is worthwhile to note that HTTP can be represented effectively as character string, instead of a long string of bits that are meaningless unless you have the standard document in front of you. This is not the norm for most of the fundamental protocols of the internet, including IP, TCP, and DHCP.
+
 Understanding the meaning of the common HTTP verbs, status codes, and headers is important for you to understand, as you will use them in developing a web application. Take some time to internalize the following common values.
 
 ## Verbs
