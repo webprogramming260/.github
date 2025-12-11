@@ -1,2 +1,5 @@
-# .github
-Course content for BYU CS 260
+![byu](byuLogo.png)
+
+# BYU **Web Programming** `cs260`
+
+Welcome to Web Programming 260. To get started [view the course page](profile/README.md).
