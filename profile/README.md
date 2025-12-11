@@ -8,7 +8,7 @@ Web programming gives you practical experience with important aspects of compute
 
 The content for this course is represented by the following parts.
 
-- 📘 [Instruction](https://github.com/webprogramming260/webprogramming/blob/main/instruction/instructionTopics.md)
+- 📘 [Instruction](https://github.com/webprogramming260/webprogramming/blob/main/instruction/modules.md)
 - 📱 [Simon](https://github.com/webprogramming260/webprogramming/blob/main/instruction/essentials/simon/simon.md)
 - 🚀 [Startup](https://github.com/webprogramming260/webprogramming/blob/main/instruction/essentials/startup/startup.md)
 - 📅 [Schedule](https://github.com/webprogramming260/webprogramming/blob/main/instruction/schedule/schedule.md)
