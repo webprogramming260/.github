@@ -1,6 +1,6 @@
 # BYU **Web Programming** `cs260`
 
-![cover](https://github.com/webprogramming260/.github/blob/main/profile/webprogrammingcover.jpg?raw=true)
+![cover](https://github.com/webprogramming260/.github/blob/main/instruction/webprogrammingcover.jpg?raw=true)
 
 ## Welcome
 
@@ -8,10 +8,10 @@ Web programming gives you practical experience with important aspects of compute
 
 The content for this course is represented by the following parts.
 
-- 📘 [Instruction](https://github.com/webprogramming260/.github/blob/main/profile/instructionTopics.md)
-- 📱 [Simon](https://github.com/webprogramming260/.github/blob/main/profile/essentials/simon/simon.md)
-- 🚀 [Startup](https://github.com/webprogramming260/.github/blob/main/profile/essentials/startup/startup.md)
-- 📅 [Schedule](https://github.com/webprogramming260/.github/blob/main/profile/schedule/schedule.md)
+- 📘 [Instruction](https://github.com/webprogramming260/.github/blob/main/instruction/instructionTopics.md)
+- 📱 [Simon](https://github.com/webprogramming260/.github/blob/main/instruction/essentials/simon/simon.md)
+- 🚀 [Startup](https://github.com/webprogramming260/.github/blob/main/instruction/essentials/startup/startup.md)
+- 📅 [Schedule](https://github.com/webprogramming260/.github/blob/main/instruction/schedule/schedule.md)
 - 💯 Grades and submissions are managed in [Canvas](https://byu.instructure.com)
 
 ## Outcomes
@@ -28,7 +28,7 @@ By the end of this instruction you should achieve the following outcomes:
 
 The course covers a full stack of web programming technologies and topics.
 
-![Technologies](https://github.com/webprogramming260/.github/blob/main/profile/technologies.png?raw=true)
+![Technologies](https://github.com/webprogramming260/.github/blob/main/instruction/technologies.png?raw=true)
 
 - Command console
 - HTML
